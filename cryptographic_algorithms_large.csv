@@ -1,0 +1,8 @@
+block_size,key_size,plaintext,ciphertext,mode,algorithm
+128,128,Hello World!,0x6d251e0e0e0e0e0e0e0e0e0e0e0e,AES
+256,256,Hello World!,0x6d251e0e0e0e0e0e0e0e0e0e0e0e,AES
+2048,2048,Hello World!,0x1234567890abcdef1234567890abcdef,RSA
+4096,4096,Hello World!,0x1234567890abcdef1234567890abcdef1234567890abcdef,RSA
+128,128,Hello!,0x6d251e0e0e0e0e0e0e0e0e0e0e0e,AES
+256,256,Hello!,0x6d251e0e0e0e0e0e0e0e0e0e0e0e,AES
+...
